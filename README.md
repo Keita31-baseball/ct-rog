@@ -1,4 +1,3 @@
-# ct-log
 # CT Log Collection System
 
 ## Overview
